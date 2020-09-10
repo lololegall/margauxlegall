@@ -1,1 +1,20 @@
 @import "bootstrap/scss/bootstrap";
+
+// Components
+@import "components/3D";
+@import "components/button";
+@import "components/effects";
+@import "components/fonts";
+@import "components/footer";
+@import "components/navbar";
+
+// Pages
+@import "pages/about";
+@import "pages/contact";
+@import "pages/defiwind";
+@import "pages/home";
+@import "pages/margalou";
+@import "pages/sucresale";
+@import "pages/unchienenville";
+@import "pages/whaticando";
+@import "pages/work";
