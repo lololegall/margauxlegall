@@ -9,4 +9,14 @@ Rails.application.routes.draw do
   get 'sucre-sale', to: 'pages#sucresale'
   get 'defi-wind', to: 'pages#defiwind'
   get 'un-chien-en-ville', to: 'pages#unchienenville'
+
+  get 'home-fr', to: 'pages#homefr'
+  get 'about-fr', to: 'pages#aboutfr'
+  get 'contact-fr', to: 'pages#contactfr'
+  get 'work-fr', to: 'pages#workfr'
+  get 'what-i-can-do-fr', to: 'pages#whaticandofr'
+  get 'margalou-fr', to: 'pages#margaloufr'
+  get 'sucre-sale-fr', to: 'pages#sucresalefr'
+  get 'defi-wind-fr', to: 'pages#defiwindfr'
+  get 'un-chien-en-ville-fr', to: 'pages#unchienenvillefr'
 end
